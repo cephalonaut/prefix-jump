@@ -1,0 +1,9 @@
+{
+    "name": "prefix-jump",
+    "version": "0.1.0",
+    "description": "A Zed extension for jumping to prefixed words",
+    "wasm_api_version": "0.1.0",
+    "authors": [],
+    "repository": ""
+}
+
